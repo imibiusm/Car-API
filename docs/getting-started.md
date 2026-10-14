@@ -60,9 +60,4 @@ as JSON fields.
 }
 ```
 
-## Interactive API documentation
 
-Your FastAPI service also provides interactive
-documentation at:
-
-`https://YOUR-API.onrender.com/docs`
