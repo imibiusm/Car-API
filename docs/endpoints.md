@@ -104,6 +104,7 @@ Example:
 ```text
 /random
 
+```
 ```json
 {
   "make": "Alpine",
@@ -111,7 +112,6 @@ Example:
 }
 ```
 
-```
 
 ## HTTP status codes
 
