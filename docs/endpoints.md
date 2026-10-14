@@ -107,8 +107,8 @@ Example:
 ```
 ```json
 {
-  "make": "Alpine",
-  "model": "A110"
+  "make": "MG",
+  "model": "MG S9"
 }
 ```
 
