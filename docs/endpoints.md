@@ -3,7 +3,7 @@
 
 All endpoints return JSON responses.
 
-Replace `YOUR-API.onrender.com` with your actual API hostname.
+Replace `https://car-api-oos.onrender.com` with your actual API hostname.
 
 ## 1. Get a car
 
