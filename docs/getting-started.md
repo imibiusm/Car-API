@@ -37,7 +37,7 @@ Then run:
 ```python
 import requests
 
-BASE_URL = "https://YOUR-API.onrender.com"
+BASE_URL = "https://car-api-oos.onrender.com"
 
 response = requests.get(
     f"{BASE_URL}/cars/Alpine/A110",
