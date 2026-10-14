@@ -112,6 +112,27 @@ Example:
 }
 ```
 
+## 6. Stats
+
+**Method:** `GET`
+
+```text
+/stats
+```
+{
+  "total_makes": 236,
+  "total_models": 4210
+}
+
+```json
+{
+  "make": "MG",
+  "model": "MG S9"
+}
+```
+
+
+
 
 ## HTTP status codes
 
