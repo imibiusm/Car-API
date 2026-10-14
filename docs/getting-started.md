@@ -3,8 +3,7 @@
 
 ## Base URL
 
-Replace the placeholder below with the public URL
-assigned to your deployed FastAPI service.
+Base URL
 
 ```text
 https://car-api-oos.onrender.com
@@ -22,7 +21,7 @@ GET /cars/Alpine/A110
 The complete URL is:
 
 ```text
-https://YOUR-API.onrender.com/cars/Alpine/A110
+https://car-api-oos.onrender.com
 ```
 
 ## Using Python
