@@ -15,7 +15,7 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: darkblue
+      primary: indigo
       accent: cyan
 
 plugins:
