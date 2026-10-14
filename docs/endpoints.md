@@ -119,15 +119,12 @@ Example:
 ```text
 /stats
 ```
-{
-  "total_makes": 236,
-  "total_models": 4210
-}
+
 
 ```json
 {
-  "make": "MG",
-  "model": "MG S9"
+  "total_makes": 236,
+  "total_models": 4210
 }
 ```
 
