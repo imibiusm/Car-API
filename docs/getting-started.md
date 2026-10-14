@@ -7,7 +7,7 @@ Replace the placeholder below with the public URL
 assigned to your deployed FastAPI service.
 
 ```text
-https://YOUR-API.onrender.com
+https://car-api-oos.onrender.com
 ```
 
 ## Your first request
